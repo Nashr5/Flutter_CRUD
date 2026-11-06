@@ -193,10 +193,9 @@ Semua endpoint mengembalikan data berformat JSON:
 
 Proyek ini dibuat untuk tugas mata kuliah **Pengembangan Perangkat Bergerak (PPB)**.
 
-- **Nama**: [Nama Mahasiswa]
-- **NIM**: [NIM Mahasiswa]
-- **Kelas / Program Studi**: [Kelas] - [Program Studi / Teknik Informatika]
-- **Dosen Pengampu**: [Nama Dosen Pengampu]
+- **Nama**: Mohammad Nashrudin Mahardhika
+- **NIM**: 240102058
+- **Kelas / Program Studi**: IF24A/IF5A - Teknik Informatika
 
 ---
 
